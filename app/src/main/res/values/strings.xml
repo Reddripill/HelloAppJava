@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloAppJava</string>
+    <string name="hello_message">Hello, Android Studio!</string>
+    <string name="hello_message_land">Hello, horizontal Android Studio!</string>
 </resources>

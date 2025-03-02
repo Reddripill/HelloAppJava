@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Привет, мой первый проект</string>
+    <string name="hello_message">Привет, Андроид Студио!</string>
+    <string name="hello_message_land">Привет, горизонатальный Андроид Студио!</string>
+</resources>
